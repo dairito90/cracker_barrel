@@ -1,5 +1,5 @@
 body {
-    background-image: url(img/backg.jpg);
+    background-image: url(img/wood.jpg);
     text-align: center;
     font-family: verdana;
 
@@ -24,7 +24,7 @@ body {
     height: 2rem;
     border-radius: 100%;
     display: inline-block;
-    background-color: #000080;
+    background-color: #6f2108;
     margin: 1.5rem;
 
 }
